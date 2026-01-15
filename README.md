@@ -37,4 +37,4 @@ WEATHER_API_KEY=your_api_key_here
 python weather_app.py
 ```
 
-## Just for your ease, please run the code in a separate environment
+## Just for your ease, please run the code in a separate virtual environment
