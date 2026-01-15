@@ -33,5 +33,8 @@ WEATHER_API_KEY=your_api_key_here
 ```
 
 4. Run the program
+```bash
+python weather_app.py
+```
 
 ## Just for your ease, please run the code in a separate environment
